@@ -1,7 +1,6 @@
 # Ex.No: 10  Implementation of 2D Flappy Bird Game
 ### DATE: 22/5/2026
 ### REGISTER NUMBER:212223040163
-### NAME: RAHUL V
 ### AIM: 
 To develop a Flappy Bird game in Unity 
 ### Algorithm:
